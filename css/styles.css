@@ -487,6 +487,13 @@ img {
   fill: #f4f4fd;
 }
 
+.subscribe-title {
+  color: #ffffff;
+  margin-bottom: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 .subscribe-container {
   flex-basis: 40%;
   margin-left: auto;
@@ -495,11 +502,6 @@ img {
 .subscribe-form {
   display: flex;
   gap: 24px;
-}
-
-.subscribe-title {
-  color: #ffffff;
-  margin-bottom: 16px;
 }
 
 .subscribe-input {
