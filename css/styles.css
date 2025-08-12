@@ -578,7 +578,7 @@ body {
   z-index: 9999;
 }
 
-.backdrop .is-open {
+.backdrop.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
