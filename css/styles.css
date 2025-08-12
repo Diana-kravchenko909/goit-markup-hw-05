@@ -764,6 +764,7 @@ body {
   justify-content: center;
   flex-shrink: 0;
   fill: transparent;
+  margin-bottom: 24px;
 }
 
 .checkbox-icon {
