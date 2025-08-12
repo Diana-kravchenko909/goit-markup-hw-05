@@ -544,6 +544,7 @@ img {
   width: 24px;
   height: 24px;
   margin-left: 16px;
+  fill: #ffffff;
 }
 
 .subscribe-btn:hover,
@@ -600,7 +601,7 @@ body {
 }
 
 .backdrop.is-hidden .modal {
-  transform: translate(-50%, -50%) scale(0.9);
+  transform: translate(-50%, -50%) scale(1);
 }
 
 .close-btn {
