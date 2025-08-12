@@ -497,6 +497,11 @@ img {
   gap: 24px;
 }
 
+.subscribe-title {
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
 .subscribe-input {
   width: 264px;
   height: 40px;
